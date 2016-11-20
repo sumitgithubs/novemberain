@@ -3,4 +3,11 @@ i dont think so
 its winter time
 you are worng.
 lol
-
+lets write a code:
+```
+string=september
+if (string=!september)
+printf("its dry")
+else 
+print("Its winter duhhh!")
+end
